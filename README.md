@@ -5,7 +5,7 @@
 ## Datos
 
 - 🦄 **Desarrollador/a:** *Nombre*
-- 🐇 **Link a red social:** *https://twitter.com/nombre*
+- 🐇 **Link a red social:** *https://mastodon.social/nombre*
 - 🦾 **Perfil:** *Novato / Bajo / Medio / Avanzado / Experto*
 - 💬 **Un comentario breve o frase ingeniosa**: *-*
 
@@ -13,7 +13,7 @@
 
 *Escribe aquí tus observaciones sobre la implementación*
 
-> Puedes encontrar otros retos de Manz.dev en: <br>▶ https://lenguajejs.com/retos/
+> Puedes encontrar otros retos en: <br>▶ https://lenguajejs.com/retos/
 
 ---
 *Puedes borrar todo desde esta línea en adelante*
